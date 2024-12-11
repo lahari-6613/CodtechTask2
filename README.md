@@ -8,6 +8,8 @@
 ## Overviw of the Project
 
 ### Project:Student Grade Tracker
+![Screenshot 2024-12-11 135854](https://github.com/user-attachments/assets/375c679c-d6a8-4dc8-954a-b110dd4299b9)
+
 ### Objective:
 The main objective of this project is to design and implement a Python program that canallow educators or students to input and manage grades for different subjects or assignments. The program will calculate average grades, provide letter grades, and offer an overall grade based on the input data. Additional features like GPA calculation and grade categorization will also be included.
 ### Key Activities
