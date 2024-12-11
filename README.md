@@ -1,9 +1,9 @@
-### **Name:** LAHARI CHITTALOORI
-### **Company:** CODTECH IT SOLUTIONS
-###**ID:** CT08DS10151
-### **Domain:** Python Programming
-### **Duration:** October to november 2024
-### **Mentor:** NEELA SANTHOSH KUMAR
+**Name:** LAHARI CHITTALOORI
+**Company:** CODTECH IT SOLUTIONS
+**ID:** CT08DS10151
+**Domain:** Python Programming
+**Duration:** October to november 2024
+**Mentor:** NEELA SANTHOSH KUMAR
 
 ## Overviw of the Project
 
