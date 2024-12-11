@@ -17,8 +17,9 @@ Create functions for input validation, grade calculations, and GPA determination
 Create a function to convert numerical grades into letter grades 
 Show the average grade, letter grade, GPA, and a possible performance assessment
 ### Technoly Used
-####Programming Language: Python (main language for implementing the application).
-####Data Structures:
+#### Programming Language:
+Python (main language for implementing the application).
+#### Data Structures:
 Lists: For storing subjects and grades.
 Dictionaries: For mapping grades to letter grades and GPA.
 Tuples: To store grade ranges or scale points.
